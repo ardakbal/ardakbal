@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello everyone 👋
 
 - 🔭 I’m studying computer engineering at Sakarya University.
 - 🌱 I’m currently learning software.
