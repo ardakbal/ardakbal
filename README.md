@@ -10,5 +10,5 @@
 
 - 📚 I’m studying computer engineering at Sakarya University.
 - 🤖 I like to deal with software and I also follow technological news.
-- ✨ I also like to study history, biology, physics, chemistry, etymology, artificial intelligence, math, and geometry. 
+- ✨ I also like to study history, archaeology, biology, etymology, physics, chemistry, artificial intelligence, math, and geometry. 
 - 📫 You can reach me via LinkedIn or Github. My LinkedIn account is listed on my GitHub page.
